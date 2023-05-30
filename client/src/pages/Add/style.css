@@ -1,0 +1,7 @@
+.add-card-form-container{
+    width: 40%;
+    margin: 280px auto;
+}
+.error-message{
+    color: red;
+}
